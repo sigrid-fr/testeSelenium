@@ -13,15 +13,9 @@ Acessar o site da accenture e aceitar os cookies do LGPD<br>
 <b>Cenário</b>: Entrar no site do tricentis e preencher formulario um usando tdd e bdd <br>
 dado que estou na pagina de formulario <br>
 
-<b>Cenário</b>: Configurações do cookie<br>
-dado que eu estou no site da accenture<br>
-e aceito os termos LGPD<br>
-e clico em configurações de cookie<br>
-Então devo ver o item de "sua privacidade"<br>
-E devo ver "Cookies estritamente necessárias"<br>
-e devo ver "Cookies Analíticos de Primeira Parte"<br>
-e devo ver "Cookies de Desempenho e Cookies Funcionais"<br>
-e devo ver "Cookies de Publicidade e Redes Sociais"<br>
+<b>Cenário</b>: Forumulario Enter Vehicle Data <br>
+dado que eu estou no site da tricentis<br>
+
 
 --------------------------------------------------------------------
 ## Dependencias
