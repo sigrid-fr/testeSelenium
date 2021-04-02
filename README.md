@@ -8,9 +8,9 @@
 # Descrição do desafio 🚀
 ### Criar uma aplicação Selenium com os seguintes casos de teste
 ### Caso de teste 
-Acessar o site da accenture e aceitar os cookies do LGPD<br>
+Acessar os formularios da Tricentis <br>
 
-<b>Cenário</b>: Entrar no site do tricentis e preencher formulario <br>
+<b>Cenário</b>: Entrar no site da tricentis e preencher o primeiro formulario <br>
 dado que estou na pagina de formulario enter vehicle data <br>
 
 
