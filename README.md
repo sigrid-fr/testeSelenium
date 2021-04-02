@@ -10,11 +10,8 @@
 ### Caso de teste 
 Acessar o site da accenture e aceitar os cookies do LGPD<br>
 
-<b>Cenário</b>: Entrar no site do tricentis e preencher formulario um usando tdd e bdd <br>
-dado que estou na pagina de formulario <br>
-
-<b>Cenário</b>: Forumulario Enter Vehicle Data <br>
-dado que eu estou no site da tricentis<br>
+<b>Cenário</b>: Entrar no site do tricentis e preencher formulario <br>
+dado que estou na pagina de formulario enter vehicle data <br>
 
 
 --------------------------------------------------------------------
